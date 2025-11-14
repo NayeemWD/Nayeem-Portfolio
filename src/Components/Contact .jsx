@@ -118,7 +118,7 @@ const Contact = () => {
                 className="text-blue-500 flex-shrink-0 mt-1 sm:mt-0"
               />
               <p className="text-sm sm:text-base text-gray-600">
-                Kanchpur, Sonagroan, Narayangonj, Bangladesh
+                Kanchpur, Sonagroan, Narayangonj,Dhaka, Bangladesh
               </p>
             </div>
             <div className="border-b pb-3 sm:pb-4 mb-3 sm:mb-4 flex flex-col gap-2 sm:gap-3">
@@ -141,22 +141,30 @@ const Contact = () => {
             </div>
             <div className="flex justify-center gap-3 sm:gap-4 flex-wrap">
               <a
-                href="https://www.linkedin.com/in/durjoy-kumar/"
+                href="https://www.linkedin.com/in/m-s-nayeem/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-600 hover:text-blue-500 transition-colors">
                 <FiLinkedin size={20} />
               </a>
               <a
-                href="https://www.facebook.com/durjoykumar.sarker.9"
+                href="https://www.facebook.com/msnayeem111"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-600 hover:text-blue-500 transition-colors">
                 <FiFacebook size={20} />
               </a>
               <a
-                href="https://github.com/DurjoyKumar177"
+                href="https://github.com/NayeemWD"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-600 hover:text-blue-500 transition-colors">
                 <FiGithub size={20} />
               </a>
               <a
-                href="https://discord.com/users/750024693913747632"
+                href="https://discord.com/users/1208416710688772098"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-600 hover:text-blue-500 transition-colors">
                 <FaDiscord size={20} />
               </a>

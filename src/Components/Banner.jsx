@@ -35,7 +35,7 @@ const Banner = () => {
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 md:gap-8 pt-6 sm:pt-10">
           <div className="w-full sm:w-auto">
             <a
-              href="https://drive.google.com/uc?export=download&id=1Xz5tI570jVYuxyh1jl2AMkRd5zJ_OX9l"
+              href="https://drive.google.com/file/d/1WJkwHNsRt6UiWT1aCfaxSZ10G1jhKPbH/view?usp=sharing"
               rel="noopener noreferrer"
               target="_blank"
               className="btn w-full btn-sm sm:btn-md md:btn-lg btn-info btn-outline">
@@ -45,7 +45,7 @@ const Banner = () => {
           </div>
           <div className="w-full sm:w-auto">
             <a
-              href="https://drive.google.com/uc?export=download&id=1Xz5tI570jVYuxyh1jl2AMkRd5zJ_OX9l"
+              href="https://github.com/NayeemWD"
               rel="noopener noreferrer"
               target="_blank"
               className="btn w-full sm:w-auto btn-sm sm:btn-md md:btn-lg btn-info btn-outline">
