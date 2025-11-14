@@ -90,7 +90,7 @@ const Navber = () => {
         <div className="flex justify-center items-center gap-1 sm:gap-2">
           <a href="/" className="flex items-center gap-1 sm:gap-2">
             <img
-              src="/public/Images/footer.png"
+              src="/footer.png"
               alt="Logo"
               className="h-10 sm:h-12 md:h-14 rounded-full border-gray-200 border-2 sm:border-4"
             />

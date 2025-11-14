@@ -5,15 +5,16 @@ import { FiHeart, FiArrowUpRight } from "react-icons/fi";
 const ProjectsItems = [
   {
     id: 1,
-    image: "/netbill1.png",
+    image: "/Images/p1.png",
     category: "React Web Application",
     likes: 950,
     title: "NetBill Manager",
     description:
       "NetBill Manager is a web application that helps to manage the billing system of a small business. It is built with Django Rest Framework and React.",
     delay: 100,
-    ProjectLink: "https://net-bill-manager-frontend.vercel.app/",
-    githubLinkFrontend: "https://github.com/user/project1-frontend",
+    ProjectLink: "https://byte-blaze.netlify.app/",
+    githubLinkFrontend:
+      "https://github.com/NayeemWD/ByteBlaze?tab=readme-ov-file",
     technologies: [
       { name: "HTML", color: "bg-orange-600" },
       { name: "CSS", color: "bg-blue-600" },
@@ -24,16 +25,15 @@ const ProjectsItems = [
   },
   {
     id: 2,
-    image: "/Tuition Vault.png",
+    image: "/Images/p2.png",
     category: "React Web Application",
     likes: 750,
     title: "TuitionVault",
     description:
       "TuitionVault is a web application that helps to manage the tuition system of a small business. It is built with Django Rest Framework and React.",
     delay: 300,
-    ProjectLink: "https://durjoykumar177.github.io/TuitionVault_Frontend/",
-    githubLinkFrontend:
-      "https://github.com/DurjoyKumar177/TuitionVault_Frontend",
+    ProjectLink: "https://city-computer-service.netlify.app/",
+    githubLinkFrontend: "https://github.com/NayeemWD/City-Computer-Service",
     technologies: [
       { name: "HTML", color: "bg-orange-600" },
       { name: "CSS", color: "bg-blue-600" },
@@ -44,16 +44,15 @@ const ProjectsItems = [
   },
   {
     id: 3,
-    image: "/library.png",
+    image: "/Images/p3.png",
     category: "React Web Application",
     likes: 350,
     title: "BookHeaven",
     description:
       "Library Management System is a web application that helps to manage the library system. It is built with Django and SQLite.",
     delay: 300,
-    ProjectLink: "https://bookheaven-itco.onrender.com",
-    githubLinkFrontend:
-      "https://github.com/DurjoyKumar177/Library_Management_System",
+    ProjectLink: "https://book-doctorappointment.netlify.app/",
+    githubLinkFrontend: "https://github.com/NayeemWD/Doctor-Appointment",
     technologies: [
       { name: "HTML", color: "bg-orange-600" },
       { name: "CSS", color: "bg-blue-600" },

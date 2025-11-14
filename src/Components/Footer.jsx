@@ -10,7 +10,7 @@ const Footer = () => {
           href="/"
           className="flex text-base sm:text-lg md:text-xl flex-col items-center gap-2">
           <img
-            src="/public/Images/footer.png"
+            src="/footer.png"
             alt="Logo"
             className="h-12 sm:h-14 md:h-18 rounded-full border-gray-300 border-2 sm:border-4"
           />
