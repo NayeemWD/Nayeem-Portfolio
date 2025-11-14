@@ -58,7 +58,7 @@ const Banner = () => {
 
       {/* image section */}
       <div className="w-full lg:w-5/12 relative flex justify-center order-1 lg:order-2">
-        <div className="absolute bottom-0 w-10/12 h-3/4 sm:h-4/5 rounded-2xl c-bg c-shadow"></div>
+        <div className="absolute bottom-0 w-11/12 h-3/4 sm:h-4/5 rounded-2xl c-bg c-shadow"></div>
         <img
           className="relative z-10 h-60 sm:h-80 md:h-100 lg:h-120 object-contain"
           src="/Image3.png"

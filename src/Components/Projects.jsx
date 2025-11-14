@@ -8,9 +8,9 @@ const ProjectsItems = [
     image: "/p1.png",
     category: "React Web Application",
     likes: 950,
-    title: "NetBill Manager",
+    title: "ByteBlaze Blogs site",
     description:
-      "NetBill Manager is a web application that helps to manage the billing system of a small business. It is built with Django Rest Framework and React.",
+      "ByteBlaze Blogs is a web application that helps to read blocks and gain knowledge. It is built with HTML, CSS, JavaScript and React.",
     delay: 100,
     ProjectLink: "https://byte-blaze.netlify.app/",
     githubLinkFrontend:
@@ -28,9 +28,9 @@ const ProjectsItems = [
     image: "/p2.png",
     category: "React Web Application",
     likes: 750,
-    title: "TuitionVault",
+    title: "City Computer Service",
     description:
-      "TuitionVault is a web application that helps to manage the tuition system of a small business. It is built with Django Rest Framework and React.",
+      "City Computer Service is a web application.Which mainly provides computer services and solves various types of computer problems. that helps to manage coustomer service of a small business. It is built with HTML, CSS, JavaScript and React.",
     delay: 300,
     ProjectLink: "https://city-computer-service.netlify.app/",
     githubLinkFrontend: "https://github.com/NayeemWD/City-Computer-Service",
@@ -47,9 +47,9 @@ const ProjectsItems = [
     image: "/p3.png",
     category: "React Web Application",
     likes: 350,
-    title: "BookHeaven",
+    title: "DocConnect",
     description:
-      "Library Management System is a web application that helps to manage the library system. It is built with Django and SQLite.",
+      "DocConnect is a web application. This basically helps Passion to book appointments with specialist doctors. It is built with HTML, CSS, JavaScript and React.",
     delay: 300,
     ProjectLink: "https://book-doctorappointment.netlify.app/",
     githubLinkFrontend: "https://github.com/NayeemWD/Doctor-Appointment",
