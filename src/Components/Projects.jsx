@@ -5,7 +5,7 @@ import { FiHeart, FiArrowUpRight } from "react-icons/fi";
 const ProjectsItems = [
   {
     id: 1,
-    image: "/Images/p1.png",
+    image: "/p1.png",
     category: "React Web Application",
     likes: 950,
     title: "NetBill Manager",
@@ -25,7 +25,7 @@ const ProjectsItems = [
   },
   {
     id: 2,
-    image: "/Images/p2.png",
+    image: "/p2.png",
     category: "React Web Application",
     likes: 750,
     title: "TuitionVault",
@@ -44,7 +44,7 @@ const ProjectsItems = [
   },
   {
     id: 3,
-    image: "/Images/p3.png",
+    image: "/p3.png",
     category: "React Web Application",
     likes: 350,
     title: "BookHeaven",
