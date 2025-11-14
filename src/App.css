@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* body {
+  background-color: #ecf0f3;
+} */
+
+@layer utilities {
+  .c-bg {
+    @apply bg-[linear-gradient(145deg,#e2e8ec,#ffffff)];
+  }
+  .c-shadow {
+    @apply shadow-[8px_8px_15px_#c5c8ca,-8px_-8px_15px_#ffffff];
+  }
+}
