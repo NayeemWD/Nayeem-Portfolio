@@ -133,9 +133,9 @@ const Navber = () => {
           <MdFileDownload className="text-lg md:text-xl" />
           <span className="hidden sm:inline font-bold">Resume</span>
         </a>
-        <div className="btn btn-sm md:btn-md p-0">
+        {/* <div className="btn btn-sm md:btn-md p-0 z-100">
           <ThemeSelector />
-        </div>
+        </div> */}
       </div>
     </div>
   );

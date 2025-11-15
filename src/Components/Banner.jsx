@@ -17,7 +17,7 @@ const Banner = () => {
         {/* <Typewriter></Typewriter> */}
         <div className="font-semibold text-3xl sm:text-4xl md:text-5xl font-bold">
           <Typewriter
-            words={["M S Nayeem", "Front-End Developer"]}
+            words={["M S Nayeem", "Frontend Developer"]}
             loop={Infinity}
             cursor
             cursorStyle="|"

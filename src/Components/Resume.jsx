@@ -44,7 +44,7 @@ const Resume = () => {
   return (
     <div
       id="resume"
-      className="m c-bg rounded-2xl mt-10 sm:mt-20 py-10 sm:py-16 md:py-20 overflow-hidden px-4 sm:px-6 md:px-8 lg:px-6">
+      className="mb-20 c-bg rounded-2xl mt-10 sm:mt-20 py-10 sm:py-16 md:py-20 overflow-hidden px-4 sm:px-6 md:px-8 lg:px-6">
       <div className="max-w-4xl mx-auto relative z-10">
         {/* My Resume Section Header */}
         <div className="text-center mb-10 sm:mb-16 md:mb-20">

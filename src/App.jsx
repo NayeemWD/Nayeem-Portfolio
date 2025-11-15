@@ -11,6 +11,7 @@ function App() {
   return (
     <>
       <div className="bg-[#ecf0f3] w-full">
+      {/* <div className=" w-full"> */}
         <Navber />
         <div className="w-full px-4 sm:px-6 md:px-8 lg:px-20 xl:px-72 mx-auto">
           <Banner />

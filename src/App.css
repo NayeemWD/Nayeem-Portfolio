@@ -1,5 +1,15 @@
 @import "tailwindcss";
-@plugin "daisyui";
+/* @plugin "daisyui" {
+  themes: light --default, dark --prefersdark;
+}
+@custom-variant dark (&:where([data-theme=night], [data-theme=night] *)); */
+
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, synthwave, halloween, aqua;
+}
+@custom-variant dark (&:where(.dark, .dark *));
+
+
 
 /* body {
   background-color: #ecf0f3;
