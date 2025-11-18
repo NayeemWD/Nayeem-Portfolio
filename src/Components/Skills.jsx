@@ -98,13 +98,13 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="pt-8 sm:pt-12 md:pt-16 from-gray-100 to-gray-300 w-full min-h-screen flex items-center justify-center mb-8 sm:mb-10 mt-8 sm:mt-10">
+      className="pt-6 sm:pt-8 md:pt-10 from-gray-100 to-gray-300 w-full flex items-center justify-center mb-6 sm:mb-8 mt-0">
       <div className="max-w-screen-lg mx-auto p-4 sm:p-6 md:p-8 flex flex-col justify-center w-full h-full">
         <div className="text-center mb-6 sm:mb-8">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-800 inline border-b-4 border-black pb-2">
             Skills
           </h2>
-          <p className="text-xs sm:text-sm md:text-base lg:text-lg text-gray-600 mt-3 sm:mt-4 md:mt-6 px-2 sm:px-4 md:px-6 leading-relaxed">
+          <p className="max-w-xl mx-auto text-xs sm:text-sm md:text-base lg:text-lg text-gray-600 mt-2 sm:mt-3 pt-4 leading-relaxed">
             These are the technologies I've worked with
           </p>
         </div>
@@ -127,11 +127,11 @@ const Skills = () => {
           </div>
         </div>
 
-        <div className="w-full grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6 md:gap-8 text-center py-6 sm:py-8 px-2 sm:px-0">
+        <div className="w-full grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6 md:gap-8 text-center py-4 sm:py-6 px-2 sm:px-0">
           {filteredSkills.map((skill, index) => (
             <div
               key={index}
-              className={`shadow-md hover:scale-105 duration-500 py-3 sm:py-4 md:py-6 rounded-lg ${skill.shadow} c-bg backdrop-blur-md transform transition-all`}>
+              className={`shadow-md hover:scale-105 duration-500 py-3 sm:py-4 md:py-5 rounded-lg ${skill.shadow} c-bg backdrop-blur-md transform transition-all`}>
               <div className="w-12 sm:w-14 md:w-16 mx-auto">
                 {React.cloneElement(skill.icon, {
                   size:

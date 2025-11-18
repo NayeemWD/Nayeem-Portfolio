@@ -77,7 +77,7 @@ const Projects = () => {
   return (
     <section
       id="project"
-      className="pt-12 sm:pt-16 md:pt-20 lg:pt-24 pb-12 sm:pb-16">
+      className="pt-12 sm:pt-16 md:pt-20 lg:pt-10 pb-12 sm:pb-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 lg:px-4">
         <div className="text-center mb-8 sm:mb-10">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-800 mt-2">
