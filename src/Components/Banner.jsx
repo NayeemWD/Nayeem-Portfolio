@@ -66,16 +66,16 @@ const Banner = () => {
       <div className="w-full lg:w-5/12 relative flex justify-center order-1 lg:order-2">
         {/* responsive wrapper that controls background size and image size */}
         <div
-          className="relative rounded-2xl overflow-hidden flex items-center justify-center"
+          className="relative rounded-2xl overflow-hidden flex items-center justify-center "
           style={{ width: "min(92%,420px)" }}>
           {/* background gradient that matches the wrapper size */}
           <div
-            className="absolute inset-0 rounded-2xl"
+            className="absolute left-0 right-0 bottom-0 rounded-2xl h-3/4  "
             style={{ background: "linear-gradient(145deg, #e2e8ec, #ffffff)" }}
           />
           {/* image scales to wrapper width and keeps aspect ratio */}
           <img
-            className="relative z-10 w-full h-auto max-h-[300px] sm:max-h-[360px] md:max-h-[420px] object-contain"
+            className="relative z-10  w-full h-auto max-h-[300px] sm:max-h-[360px] md:max-h-[420px] object-contain"
             src="/Image3.png"
             alt="Profile"
           />

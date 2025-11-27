@@ -98,8 +98,8 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="pt-6 sm:pt-8 md:pt-10 from-gray-100 to-gray-300 w-full flex items-center justify-center mb-6 sm:mb-8 mt-0">
-      <div className="max-w-screen-lg mx-auto p-4 sm:p-6 md:p-8 flex flex-col justify-center w-full h-full">
+      className="pt-6 sm:pt-8 md:pt-10 from-gray-100 to-gray-300 w-full flex items-center justify-center mb-6 sm:mb-8 mt-0 ">
+      <div className="max-w-screen-lg mx-auto p-4  lg:px-0 sm:p-6 md:p-8 flex flex-col justify-center w-full h-full">
         <div className="text-center mb-6 sm:mb-8">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-800 inline border-b-4 border-black pb-2">
             Skills
@@ -109,7 +109,7 @@ const Skills = () => {
           </p>
         </div>
 
-        <div className="flex justify-center mb-6 sm:mb-8 px-2 sm:px-4">
+        <div className="flex justify-center mb-6 sm:mb-8 px-2 sm:px-4 ">
           <div className="flex overflow-x-auto whitespace-nowrap space-x-2 sm:space-x-4 scrollbar-hide px-2 sm:px-4">
             {tabs.map((tab) => (
               <button
