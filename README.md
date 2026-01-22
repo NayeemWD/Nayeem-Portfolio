@@ -39,10 +39,10 @@ Explore my work live:
 
 Feel free to connect with me!
 
-*   **Email:** [msnayeem333@gmail.com]
-*   **LinkedIn:** [https://www.linkedin.com/in/m-s-nayeem/](https://www.linkedin.com/in/msnayeem/) 
+*   **Email:** msnayeem333@gmail.com
+*   **LinkedIn:** [https://www.linkedin.com/in/m-s-nayeem/](https://www.linkedin.com/in/m-s-nayeem/) 
 *   **GitHub:** [https://github.com/NayeemWD](https://github.com/msnayeem/)
-*   **Phone:** [+88 01643547750]
+*   **Phone:** +88 01643-547750
 
 
 ---
