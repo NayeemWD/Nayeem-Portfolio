@@ -3,8 +3,27 @@ import { FaGithub } from "react-icons/fa";
 import { FiHeart, FiArrowUpRight } from "react-icons/fi";
 
 const ProjectsItems = [
-  {
+    {
     id: 1,
+    image: "/p4.png",
+    category: "EasyShop E-Commerce Web Application",
+    likes: 750,
+    title: "EasyShop E-Commerce Website",
+    description:
+      "Developed a modern, responsive e-commerce platform designed to provide a seamless shopping experience. Technologies Used: React.js, Redux, Tailwind CSS, Firebase, DaisyUI.",
+    delay: 300,
+    ProjectLink: "https://nayeem-e-commerce.netlify.app/",
+    githubLinkFrontend: "https://github.com/NayeemWD/e-commerce",
+    technologies: [
+  { name: "React.js", color: "bg-cyan-500" },
+  { name: "Redux", color: "bg-purple-600" },
+  { name: "Tailwind CSS", color: "bg-sky-500" },
+  { name: "Firebase", color: "bg-amber-500" }, 
+  { name: "DaisyUI", color: "bg-rose-500" } 
+    ],
+  },
+  {
+    id: 2,
     image: "/p1.png",
     category: "React Web Application",
     likes: 950,
@@ -15,25 +34,6 @@ const ProjectsItems = [
     ProjectLink: "https://byte-blaze.netlify.app/",
     githubLinkFrontend:
       "https://github.com/NayeemWD/ByteBlaze?tab=readme-ov-file",
-    technologies: [
-      { name: "HTML", color: "bg-orange-600" },
-      { name: "CSS", color: "bg-blue-600" },
-      { name: "Tailwind CSS", color: "bg-sky-500" },
-      { name: "JavaScript", color: "bg-yellow-400" },
-      { name: "React", color: "bg-cyan-400" },
-    ],
-  },
-  {
-    id: 2,
-    image: "/p2.png",
-    category: "React Web Application",
-    likes: 750,
-    title: "City Computer Service",
-    description:
-      "City Computer Service is a web application.Which mainly provides computer services and solves various types of computer problems. that helps to manage coustomer service of a small business. It is built with HTML, CSS, JavaScript and React.",
-    delay: 300,
-    ProjectLink: "https://city-computer-service.netlify.app/",
-    githubLinkFrontend: "https://github.com/NayeemWD/City-Computer-Service",
     technologies: [
       { name: "HTML", color: "bg-orange-600" },
       { name: "CSS", color: "bg-blue-600" },
