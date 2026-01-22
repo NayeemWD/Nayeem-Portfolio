@@ -41,7 +41,7 @@ Feel free to connect with me!
 
 *   **Email:** msnayeem333@gmail.com
 *   **LinkedIn:** [https://www.linkedin.com/in/m-s-nayeem/](https://www.linkedin.com/in/m-s-nayeem/) 
-*   **GitHub:** [https://github.com/NayeemWD](https://github.com/msnayeem/)
+*   **GitHub:** [https://github.com/NayeemWD](https://github.com/NayeemWD)
 *   **Phone:** +88 01643-547750
 
 
