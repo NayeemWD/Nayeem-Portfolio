@@ -1,4 +1,4 @@
-# Hi, I'm M S Nayeem, A Front-End Developer.
+# Hi, I'm M S Nayeem, a Front-End Developer specializing in React.js.
 
 ![Nayeem-Portfolio Live Demo](public/p5.png)
 *(Image: A screenshot of the Nayeem-Portfolio website's main page)*
@@ -39,13 +39,11 @@ Explore my work live:
 
 Feel free to connect with me!
 
-*   **Email:** [your-email@example.com](mailto:your-email@example.com) *(Please replace with your actual email address)*
-*   **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/msnayeem/) *(Please replace with your actual LinkedIn profile URL)*
-*   **GitHub:** [github.com/your-username](https://github.com/msnayeem/) *(Please replace with your actual GitHub profile URL)*
+*   **Email:** [msnayeem333@gmail.com]
+*   **LinkedIn:** [https://www.linkedin.com/in/m-s-nayeem/](https://www.linkedin.com/in/msnayeem/) 
+*   **GitHub:** [https://github.com/NayeemWD](https://github.com/msnayeem/)
+*   **Phone:** [+88 01643547750]
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information. *(Note: If you have a LICENSE file, otherwise this section can be removed or adjusted.)*
 
 ---
 _This README was generated with ❤️ by a Gemini AI Agent_
