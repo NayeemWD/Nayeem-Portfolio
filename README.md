@@ -1,6 +1,6 @@
-# Nayeem-Portfolio
+# Hi, I'm M S Nayeem
 
-![Nayeem-Portfolio Live Demo](public/p1.png)
+![Nayeem-Portfolio Live Demo](public/p5.png)
 *(Image: A screenshot of the Nayeem-Portfolio website's main page)*
 
 ## About Me
@@ -34,38 +34,6 @@ Explore my work live:
     *   Vite (for fast development server and optimized builds)
 *   **Version Control:**
     *   Git
-
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-*   npm (Node Package Manager)
-    ```bash
-    npm install npm@latest -g
-    ```
-
-### Installation
-
-1.  Clone the repo:
-    ```bash
-    git clone https://github.com/your-username/Nayeem-Portfolio.git
-    ```
-    *(Note: Replace `your-username` with your actual GitHub username if this project is hosted there.)*
-2.  Navigate into the project directory:
-    ```bash
-    cd Nayeem-Portfolio
-    ```
-3.  Install NPM packages:
-    ```bash
-    npm install
-    ```
-4.  Run the development server:
-    ```bash
-    npm run dev
-    ```
-    The application will typically be accessible at `http://localhost:5173/` (or another port if 5173 is in use).
 
 ## Contact
 
