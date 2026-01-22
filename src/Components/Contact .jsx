@@ -127,15 +127,15 @@ const Contact = () => {
                 <a
                   href="tel:+8801643547750"
                   className="text-blue-500 hover:underline text-sm sm:text-base">
-                  +8801643547750
+                  +88 01643-547750
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <FiMail size={20} className="text-blue-500 flex-shrink-0" />
                 <a
-                  href="mailto:msnayeem111@gmail.com"
+                  href="mailto:msnayeem333@gmail.com"
                   className="text-blue-500 hover:underline text-sm sm:text-base break-all">
-                  msnayeem111@gmail.com
+                  msnayeem333@gmail.com
                 </a>
               </div>
             </div>
