@@ -31,7 +31,7 @@ const ProjectsItems = [
     description:
       "ByteBlaze Blogs is a web application that helps to read blocks and gain knowledge. It is built with HTML, CSS, JavaScript and React.",
     delay: 100,
-    ProjectLink: "https://byte-blaze.netlify.app/",
+    ProjectLink: "https://artical-project.netlify.app/",
     githubLinkFrontend:
       "https://github.com/NayeemWD/ByteBlaze?tab=readme-ov-file",
     technologies: [
