@@ -126,7 +126,7 @@ const Navber = () => {
       {/* Buttons and Theme Selector */}
       <div className="flex gap-1 sm:gap-2 md:gap-4 items-center">
         <a
-          href="https://drive.google.com/file/d/1WJkwHNsRt6UiWT1aCfaxSZ10G1jhKPbH/view?usp=sharing"
+          href="https://drive.google.com/file/d/1l_7jXIwDRpaPhrVoSW7NjKSEgUc8sfXf/view?usp=sharing"
           rel="noopener noreferrer"
           target="_blank"
           className="btn btn-sm md:btn-md">

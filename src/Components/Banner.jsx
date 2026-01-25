@@ -37,7 +37,7 @@ const Banner = () => {
         <div className="flex flex-col sm:flex-row gap-3 sm:gap-6 mt-3">
           <div className="w-full sm:w-auto">
             <a
-              href="https://drive.google.com/file/d/1WJkwHNsRt6UiWT1aCfaxSZ10G1jhKPbH/view?usp=sharing"
+              href="https://drive.google.com/file/d/1l_7jXIwDRpaPhrVoSW7NjKSEgUc8sfXf/view?usp=sharing"
               rel="noopener noreferrer"
               target="_blank"
               className="btn w-full sm:w-auto btn-sm sm:btn-md md:btn-lg btn-info btn-outline">
